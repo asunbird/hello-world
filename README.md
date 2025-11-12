@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising GitHub Flow
+Hello, I'm new to coding. This is my student branch.
